@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b> Creating Virtual Networks and Virtual Machines </b>
+  - [Azure: Azure Compute and Networking](https://github.com/stefankalexander/Creating-Virtual-Networks-and-Virtual-Machines-)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/stefankalexander/osticket-prereqs)
