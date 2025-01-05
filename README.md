@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stefan, an <a href="https://www.linkedin.com/in/stefan-alexander-8a5705198/">IT Support</a>☺</h1>
+<h1>Hi, I'm Stefan, an <a href="https://www.linkedin.com/in/stefan-alexander-8a5705198/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
