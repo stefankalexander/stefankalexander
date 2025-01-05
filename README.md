@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b> Creating Virtual Networks and Virtual Machines </b>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/stefankalexander/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/stefankalexander/post-install-config)
